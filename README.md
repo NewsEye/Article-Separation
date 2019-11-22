@@ -1,7 +1,7 @@
 # Article Separation
 
 ## Description
-Article separation (AS), also called article segmentation, is the process of dividing a newspaper page into its articles. So far, existing systems still need considerable input from human users to solve this task. In the context of the NewsEye project the aim is to create an automated workflow that is independant from any user input. 
+Article separation (AS), also called article segmentation, is the process of dividing a newspaper page into its articles. So far, existing systems still need considerable input from human users to solve this task due to handcrafted rules that need parameter tuning to work well dependent on the layout of the newspaper page. In the context of the NewsEye project the aim is to create an automated workflow that is independant from any user input. 
 
 ## Workflow
 The preceeding tasks 2.1 Layout Analysis (LA) and 2.2 Automated Text Recognition (ATR) in the NewsEye project provide geometrical information in the form of text lines / baselines and the corresponding transcription of the text. This information we want to use to solve the AS task by combining traditional LA methods, semantic information and machine learning based approaches.
