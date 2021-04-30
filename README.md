@@ -13,14 +13,13 @@ The Transkribus GitHub repository can be found at https://github.com/transkribus
 ## Used models and algorithms
 * Seq2Seq models for ATR: [Paper](https://arxiv.org/abs/1903.07377)
 * ARU-Net / Pixel labeling: [GitHub Repository](https://github.com/TobiasGruening/ARU-Net) - [Paper](https://arxiv.org/abs/1802.03345)
+* Stroke Width Transform: [Paper](https://ieeexplore.ieee.org/document/5540041)
 * DBScan: [GitHub Repository](https://github.com/chrisjmccormick/dbscan) - [Paper](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)
+* BERT: [Paper](https://arxiv.org/abs/1810.04805)
 * Graph Neural Networks: [Paper](https://persagen.com/files/misc/scarselli2009graph.pdf)
-* ...
 
 ## Data
 To our knowledge, there is no general AS dataset on newspaper pages on which a comparison with other existing workflows is possible.
 
-## CITlab AS GitHub Repositories
-* https://github.com/CITlabRostock/citlab-article-separation
-* https://github.com/CITlabRostock/citlab-article-separation-measure
-* https://github.com/CITlabRostock/citlab-python-util
+### CITlab AS GitHub Repository: 
+https://github.com/CITlabRostock/citlab-article-separation-new
