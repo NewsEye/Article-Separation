@@ -21,5 +21,6 @@ The Transkribus GitHub repository can be found at https://github.com/transkribus
 ## Data
 To our knowledge, there is no general AS dataset on newspaper pages on which a comparison with other existing workflows is possible.
 
-## CITlab AS GitHub Repository: 
+## CITlab AS GitHub Repository:
+The code for the article separation can be found in the following GitHub repository, which was updated for M45:
 https://github.com/CITlabRostock/citlab-article-separation-new
